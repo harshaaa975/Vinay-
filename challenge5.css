@@ -1,0 +1,87 @@
+.title{
+  font-family: arial;
+  font-weight: bold;
+  font-size: 25px;
+  margin-bottom:3px;
+ }                                .sales{
+                                          font-family: arial;
+                                          margin-top: 0;
+                                           color: rgb(220, 16, 16);}
+
+.html{
+  font-family: verdana;
+  font-weight: bold;
+  font-size: 27px;
+  margin-bottom: 0;
+}                                   .beg{
+                                        font-family: verdana;
+                                         color: grey;
+                                         margin-top: 3px;}
+  
+  .course{
+    font-family: verdana;
+     font-size: 20px;
+      width: 370px;}             .button{ 
+                                         color: white; 
+                                         background-color: rgb(58, 98, 1); 
+                                         font-family: verdana; 
+                                         font-size: 20px;
+                                         border:none;
+                                         border-radius: 5px;
+                                         text-align: center;
+                                         padding-top: 3px;
+                                         padding-bottom: 3px;
+                                                        }  
+    
+  .shop{
+    font-family: arial;
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 0;
+    text-align: center;
+  }                                     .apple{
+                                                 font-family: arial;
+                                                 font-size:20 px;
+                                                 text-align:center;
+                                                             }                  .learn{
+                                                                                         font-family: arial;
+                                                                                          font-size: 17px;
+                                                                                          text-align: center;
+                                                                                          color: rgb(3, 161, 241);                      }
+
+.new{
+  color: rgb(241, 189, 0);
+  font-family: arial;
+  margin-bottom: 0;
+}                                             .mac{
+                                                     font-family: arial;
+                                                     font-weight: bold;
+                                                     font-size: 17px;
+                                                     margin-top: 3px;
+                                                     margin-bottom: 3px;
+                                                                }             .pro{
+                                                                                      font-family: arial;
+                                                                                      font-weight: bold;
+                                                                                      font-size: 30px;
+                                                                                      margin-top: 3px;
+                                                                                      margin-bottom: 0;
+                                                                                                          }
+.from{
+  margin-top: 0;
+}
+
+.us{
+  color: grey;
+  font-family: arial;
+ font-size: 9px;
+}                                       .percent{
+                                                   color: rgb(39, 150, 2);
+                                                   font-family: arial;
+                                                              }
+            .count{
+              color: rgb(209, 4, 4);
+              font-family: arial;
+            }                               .after{
+                                                       font-family: arial;
+                                                       color: grey;
+                                                                      }
